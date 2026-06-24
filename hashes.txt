@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión de ángel
+
+This log tracks the cryptographic history and versioning for the song **Pasión de ángel** (pasion-de-angel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T13:30:04.340224 | `v1` | `e102849d76ee8b84cfbd2cda01a86ecb100c110c8e3ac472c166cf93649ed0de` | `cfdca9ed84b502f2d579d708c2c73ba285c08c93db04985d7b3debeda438b54f` | `2026-06-24_pasion-de-angel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

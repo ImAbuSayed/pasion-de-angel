@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Pasión de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-angel/) |
+| **Get License** | [Commercial Licensing for Pasión de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me miras y la noche se detiene
+> Con ese flow de ángel que me tiene
+> Loco por probar lo que tus labios esconden
+> Dime dónde vamos, que mis ganas responden
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
